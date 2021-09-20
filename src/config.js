@@ -11,8 +11,8 @@ module.exports = {
     },
     social: {
         linkedin: 'raymondnkosi',
-        twitter: 'raymoneyking',
-        facebook: 'raydollarsign',
+        twitter: '',
+        facebook: '',
         dribbble: '',
         behance: '',
         medium: '',
@@ -52,13 +52,11 @@ module.exports = {
             institution: 'Free Code Camp',
             degree: 'JavaScript Algorithms and Data Structures',
             from: 'May 2020',
-            to: ''
         },
         { 
             institution: 'Free Code Camp',
             degree: 'Responsive Web Design',
             from: 'April 2020',
-            to: '',
         },
         { 
             institution: 'Tshwane University of Technology',
