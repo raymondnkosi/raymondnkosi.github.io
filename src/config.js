@@ -1,7 +1,7 @@
 // config.js
 module.exports = {
     github: {
-        username: 'arifszn', // Your GitHub org/user name. (Required)
+        username: 'raymondnkosi', // Your GitHub org/user name. (Required)
         sortBy: 'stars', // stars | updated
         limit: 8, // How many projects to display.
         exclude: {
@@ -10,84 +10,75 @@ module.exports = {
         }
     },
     social: {
-        linkedin: 'ariful-alam',
-        twitter: 'arif_swozon',
-        facebook: '',
+        linkedin: 'raymondnkosi',
+        twitter: 'raymoneyking',
+        facebook: 'raydollarsign',
         dribbble: '',
         behance: '',
         medium: '',
         devto: '',
-        website: 'https://arifszn.github.io',
-        phone: '',
-        email: 'contact@arifszn.com'
+        website: 'https://c-mple.com',
+        phone: '+27 (0)76 670 3533',
+        email: 'raymond@cmplesolutions.com'
     },
     skills: [
-        'PHP',
-        'Laravel',
-        'JavaScript',
-        'React.js',
-        'Vue.js',
-        'Node.js',
-        'Jquery',
-        'MySQL',
-        'Git',
+        'C++',
+        'HTML',
         'CSS',
-        'Antd',
-        'Tailwind',
+        'Javascript',
+        'React.js',
+        'Node.js',
+        'Angular',
+        'Ionic',
+        'MySQL',
         'Bootstrap',
     ],
     experiences: [
         { 
-            company: 'Monstarlab Bangladesh',
-            position: 'Software Engineer',
-            from: 'September 2021',
-            to: 'Present'
-        },
-        { 
-            company: 'Orangetoolz - My Offer 360 Degree',
-            position: 'Jr. Full Stack Engineer',
+            company: 'Cpeewe Consulting Services',
+            position: 'Senior Software Developer & Customer Service Consultant',
             from: 'July 2019',
             to: 'August 2021'
         },
         { 
-            company: 'Techvillage',
-            position: 'Jr. Software Engineer',
-            from: 'January 2019',
-            to: ' June 2019'
+            company: 'Cmple Solutions',
+            position: 'Founder, CEO & Full Stack Developer',
+            from: 'June 2017',
+            to: 'Present'
         }
     ],
     education: [
         { 
-            institution: 'American International University-Bangladesh',
-            degree: 'Bachelor of Science',
-            from: '2015',
-            to: '2019'
+            institution: 'Free Code Camp',
+            degree: 'JavaScript Algorithms and Data Structures',
+            from: 'May 2020',
+            to: ''
         },
         { 
-            institution: 'Cantonment College, Jessore',
-            degree: 'Higher Secondary Certificate (HSC)',
-            from: '2012',
-            to: '2014',
+            institution: 'Free Code Camp',
+            degree: 'Responsive Web Design',
+            from: 'April 2020',
+            to: '',
         },
         { 
-            institution: 'Chowgacha Shahadat Pilot High School',
-            degree: 'Secondary School Certificate (SSC)',
-            from: '2007',
-            to: '2012'
+            institution: 'Tshwane University of Technology',
+            degree: 'National Diploma: Software Development',
+            from: '2019',
+            to: '2021'
         }
     ],
     blog: {
         // Display blog posts from your medium or dev.to account. (Optional)
         source: 'dev.to', // medium | dev.to
-        username: 'arifszn',
-        limit: 2 // How many posts to display. Max is 10.
+        username: 'raymondnkosi',
+        limit: 7 // How many posts to display. Max is 10.
     },
     googleAnalytics: {
         // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
         id: 'G-WLLB5E14M6' // Please remove this and use your own tag id
     },
     themeConfig: {
-        default: 'light',
+        default: 'dark',
 
         // Hides the switch in the navbar
         // Useful if you want to support a single color mode
