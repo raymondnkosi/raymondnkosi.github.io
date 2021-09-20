@@ -4,4 +4,4 @@ I recreated my resume as an online portfolio using React.js, ezProfile, and the 
 
 Take a look at it here:
 
-    <https://raymondnkosi.github.io/>
+<https://raymondnkosi.github.io/>
