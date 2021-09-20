@@ -51,12 +51,14 @@ module.exports = {
         { 
             institution: 'Free Code Camp',
             degree: 'JavaScript Algorithms and Data Structures',
-            from: 'May 2020',
+            from: 'April 2020',
+            to: 'May 2020'
         },
         { 
             institution: 'Free Code Camp',
             degree: 'Responsive Web Design',
-            from: 'April 2020',
+            from: 'March 2020',
+            to: 'April 2020',
         },
         { 
             institution: 'Tshwane University of Technology',
