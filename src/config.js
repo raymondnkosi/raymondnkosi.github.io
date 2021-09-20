@@ -49,6 +49,12 @@ module.exports = {
     ],
     education: [
         { 
+            institution: 'Tshwane University of Technology',
+            degree: 'National Diploma: Software Development',
+            from: '2019',
+            to: '2021'
+        },
+        { 
             institution: 'Free Code Camp',
             degree: 'JavaScript Algorithms and Data Structures',
             from: 'April 2020',
@@ -59,12 +65,6 @@ module.exports = {
             degree: 'Responsive Web Design',
             from: 'March 2020',
             to: 'April 2020',
-        },
-        { 
-            institution: 'Tshwane University of Technology',
-            degree: 'National Diploma: Software Development',
-            from: '2019',
-            to: '2021'
         }
     ],
     blog: {
